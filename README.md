@@ -1,4 +1,4 @@
-# AutoApiSR-模仿人为开发版-2
+# AutoApiSR-模仿人为开发版-
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
